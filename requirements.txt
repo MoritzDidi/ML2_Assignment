@@ -2,10 +2,9 @@ numpy==1.25.2
 pandas==2.1.0
 matplotlib==3.7.2
 streamlit==1.26.0
-ydata_profiling
-streamlit-pandas-profiling
-tensorflow
-Pillow>=8.0.0
+pandas-profiling==3.3.0  
+tensorflow==2.10.0 
+Pillow>=8.0.0 
 scikit-learn==1.3.2
 scipy==1.11.3
 seaborn==0.12.2
