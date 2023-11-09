@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+streamlit
+ydata_profiling
+streamlit-pandas-profiling
+tensorflow
+Pillow>=8.0.0
+seaborn
+skicit-learn
+joblib
